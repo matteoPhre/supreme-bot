@@ -25,7 +25,7 @@ public class LoginGmail extends Page {
 		//driver.get("http://facebook.com");
 		//driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 //        WebElement element = driver.findElement(By.id("identifierId"));
-//        element.sendKeys("patasarru10@gmail.com");
+//        
 
 		//findElement(facebookEmail).sendKeys("ciaone@scemo.it");
         //wait 5 secs for userid to be entered
@@ -33,7 +33,6 @@ public class LoginGmail extends Page {
 
         //Enter Password
 //        WebElement element1 = findElement(gMailPwdLocator);
-        //findElement(facebookPwd).sendKeys("fendersp10");
         //findElement(facebookPwd).submit();
         //Submit button
 
