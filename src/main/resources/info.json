@@ -1,0 +1,13 @@
+{
+  "name": "Ciccio",
+  "email": "Pasticcio",
+  "tel": "+3912244568",
+  "address": "Via dello scalo 3, Roma, Italia",
+  "address2": "",
+  "zip": "40000",
+  "number": "74444",
+  "card_type" : "Visa",
+  "expMonth": "11",
+  "expYear": "2027",
+  "CVV": "845"
+}
